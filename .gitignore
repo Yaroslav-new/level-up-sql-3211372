@@ -2,3 +2,11 @@
 node_modules
 .tmp
 npm-debug.log
+
+# SQLite database files
+*.sqbpro
+*.db-journal
+*.sqlite
+*.sqlite3
+*.db
+*.db3
